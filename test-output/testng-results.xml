@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21432" started-at="2023-03-15T23:12:37Z" finished-at="2023-03-15T23:12:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21432" started-at="2023-03-15T23:12:37Z" finished-at="2023-03-15T23:12:59Z">
+      <class name="com.qa.testcases.Testcase1">
+        <test-method status="PASS" signature="startapplication()[pri:0, instance:com.qa.testcases.Testcase1@6e1ec318]" name="startapplication" is-config="true" duration-ms="5924" started-at="2023-03-15T19:12:37Z" finished-at="2023-03-15T19:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startapplication -->
+        <test-method status="PASS" signature="Successfullogin()[pri:0, instance:com.qa.testcases.Testcase1@6e1ec318]" name="Successfullogin" duration-ms="15490" started-at="2023-03-15T19:12:43Z" finished-at="2023-03-15T19:12:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Successfullogin -->
+      </class> <!-- com.qa.testcases.Testcase1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
